@@ -61,11 +61,6 @@ The script uses the following configuration:
 
 - `INPUT_DIR`: The directory where the input PDF files are stored. By default, it is set to the 'input' directory in the same location as the script. You can modify this variable in the script if needed.
 
-## Author
-
-- Author: Thomas Bandy
-- Project: PDF Merger
-
 ## References
 
 - Stack Overflow: Merge PDF files - https://stackoverflow.com/questions/3444645/merge-pdf-files
