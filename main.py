@@ -30,6 +30,7 @@ def merge_pdf_files():
     pdf_files = [
         filename for filename in os.listdir(INPUT_DIR) if filename.endswith(".pdf")
     ]
+    pdf_files.sort()
     merger = PdfMerger()
 
     for pdf_file in pdf_files:

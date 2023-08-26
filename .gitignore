@@ -1,2 +1,5 @@
 /venv
+/venv_mac
 __pycache__
+/.vscode
+.gitignore
